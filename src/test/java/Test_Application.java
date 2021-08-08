@@ -9,4 +9,8 @@ public class Test_Application {
     public void test2(){
         System.out.println("running test 2");
     }
+    @Test
+    public void test3(){
+        System.out.println("running test 3");
+    }
 }
